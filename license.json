@@ -1,1 +1,3 @@
-{ "app": "uSolutionlivec1", "isPaid": true }
+{ "apps": [
+       { "app": "uSolutionlivec1", "isPaid": true, "channelUrl": "http://172.30.172.28/cloudc1/uSolplst/channels.m3u" }
+   ] }
